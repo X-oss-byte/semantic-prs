@@ -16,8 +16,9 @@ This can be changed by creating a `semantic.yml` file in your `.github` director
 The following optional settings can be added to your `semantic.yml` file.
 
 ```yaml
-# Enable/disable creation of status checks
+# Enable creation of status checks
 enabled: <boolean> # default: true
+if it's the needed for the project 
 ```
 
 ```yaml
